@@ -5,6 +5,6 @@ int f(int n)
 }
 int main(int argc, char *argv[])
 {
-	printf("%d\n", f(3));
+	printf("%d\n", f(100000000));
 	return 0;
 }

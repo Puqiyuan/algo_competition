@@ -5,6 +5,7 @@
 
 using namespace std;
 
+
 struct Matrix
 {
 	int a, b;
